@@ -2,13 +2,11 @@
 
 Esta seção fala de agentes e aplicações com LLM usando LangChain e LangGraph.
 
-LangChain é um framework para desenvolvimento de aplicações com LLM.
-
-LangGraph faz parte do ecossistema do LangChain e é um framework que permite a orquestração de agentes baseados em LLM
+LangChain é um framework para desenvolvimento de aplicações com LLM. LangGraph faz parte do ecossistema do LangChain e permite a orquestração de agentes baseados em LLM. Gosto de pensar que o LangChain oferece o conjunto de componentes e o LangGraph me ajuda a combiná-los para construir agentes com LLM.  
 
 ## Frameworks, bibliotecas e ferramentas usadas
 
-Esta seção reúne frameworks, bibliotecas e ferramentas usados nos exemplos. Reuni todos aqui para não repetir a informação em cada notebook criado.
+Esta seção reúne frameworks, bibliotecas e ferramentas usados nos exemplos.
 
 ### UV
 
