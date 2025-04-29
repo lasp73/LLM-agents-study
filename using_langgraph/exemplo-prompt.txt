@@ -1,0 +1,21 @@
+<|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Utilizando apenas as informações disponíveis, responda a pergunta.
+Se a pergunta não puder ser respondida a partir dessas informações, explique que não é possível responder a pergunta.
+
+### Informações disponíveis
+Campinas faz parte do chamado Complexo Metropolitano Expandido, que ultrapassa os trinta milhões de habitantes, aproximadamente 75% da população do estado paulista inteiro. As regiões metropolitanas de Campinas e de São Paulo já formam a primeira megalópole (ou macrometrópole) do hemisfério sul, unindo 65 municípios que juntos abrigam mais de 12% da população brasileira.
+
+Campinas é um município brasileiro no interior de São Paulo, Região Sudeste do Brasil. É um dos dezoito municípios que integram a Região Imediata de Campinas, que por sua vez é uma das onze regiões imediatas que integram a Região Intermediária de Campinas. Distante 99 km a noroeste de São Paulo, capital estadual, ocupa uma área de 794,571 km². Em 2022, sua população foi estimada pelo Instituto Brasileiro de Geografia e Estatística em 1 139 047 habitantes, sendo, em 2021 o terceiro município mais populoso de São Paulo (ficando atrás de Guarulhos e da capital) e o décimo quarto de todo o país. Aparece em quinto lugar entre 100 municípios analisados pelo Índice das Melhores e Maiores Cidades Brasileiras, o BCI100, elaborado pela Delta Economics & Finance com base nos dados do Censo 2010 do IBGE e do Ideb.
+
+A Região Metropolitana de Campinas, formada por vinte municípios paulistas, possuía em 2014 uma população de mais de três milhões de habitantes, formando a décima maior área metropolitana do Brasil e, junto com a Grande São Paulo, Região Metropolitana de Sorocaba, Vale do Paraíba e a Baixada Santista, integra o chamado Complexo Metropolitano Expandido, a primeira macrometrópole do hemisfério sul, que ultrapassava em 2008 trinta milhões de habitantes, aproximadamente 75% da população total do estado de São Paulo. Dentre seus destaques nacionais, está o maior shopping da América Latina em território contínuo, o Parque Dom Pedro Shopping, e a 2ª melhor universidade do Brasil, segundo a consultoria britânica Times Higher Education (THE).
+
+### Pergunta
+Qual a população de Campinas?
+
+### Resposta
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>
