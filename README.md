@@ -1,7 +1,7 @@
-# Estudo de Agentes Baseados em LLM
+# Estudo sobre modelos de linguagem e agentes
 
-Estas são as minhas notas de estudo, testes e exemplos de agentes baseados em LLM.
-O objetivo é explorar alguns frameworks e algumas ideias de implementação.
+Aqui, eu coloco alguns exemplos de como usar modelos de linguagem para construção de workflows e agentes.
+Meu objetivo é demonstrar com explicações, para que esse material seja útil na construção de aplicações.
 
 # Conteúdo
 
