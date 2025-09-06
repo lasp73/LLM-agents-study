@@ -1,7 +1,6 @@
 # Estudo sobre modelos de linguagem e agentes
 
-Aqui, eu coloco alguns exemplos de como usar modelos de linguagem para construção de workflows e agentes.
-Meu objetivo é demonstrar com explicações, para que esse material seja útil na construção de aplicações.
+Neste repositório, compartilho exemplos de usar modelos de linguagem para criar workflows e agentes. A ideia é explicar de forma simples e prática, para que esse material possa servir de apoio na construção das suas próprias aplicações.
 
 # Conteúdo
 
